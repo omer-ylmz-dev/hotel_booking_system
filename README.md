@@ -7,7 +7,7 @@
 ---
 
 
-# Azərbaycanca
+# Azərbaycan Dili
 
 ## Ümumi baxış
 
